@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BenardMN
-- 👀 I’m interested in java,c,c++,php and python programming. Also small to medium UI/UX projects
+- 👀 I’m interested in java,,c++,php and python programming. Also small to medium UI/UX projects
 - 🌱 I’m currently learning Computer Science at Kirinyaga University
 - 💞️ I’m looking to collaborate on small to medium enterprise projects
 - 📫 How to reach me benardmunuve934@gmail.com
