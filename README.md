@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BenardMN
 - 👀 I’m  a Developer and UI/UX designer with Figma. I have interests in PHP and python programming, and web scraping.
-- 🌱 I’m currently learning Computer Science at Kirinyaga University
+- 🌱 I’m a Computer Science graduate from Kirinyaga University
 - 💞️ I’m looking to collaborate on small to medium-enterprise projects
 - 📫 How to reach me benardmunuve934@gmail.com
 
