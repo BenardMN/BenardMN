@@ -1,5 +1,5 @@
 - 👋 I'm @Benard.
-- 👨‍💻 I am a Developer and UI/UX designer with experience using Figma. I have an interest in programming with PHP and Python.
+- 👨‍💻 I am a Developer and UI/UX designer with experience using Figma. I have an interest in programming with PHP.
 - 🎓 I am a graduate of Computer Science from Kirinyaga University.
 - 😎 I am interested in working on projects with small to medium-sized enterprises.
 - 📫 Email me at benardmunuve934@gmail.com.
